@@ -1,0 +1,30 @@
+{
+  "data": [
+    {
+      "text": "基础资料",
+      "icon": "&#xe631;",
+      "subset": [
+        {
+          "text": "网站信息设置",
+          "icon": "&#xe68e;",
+          "href": "config/index.html"
+        }
+      ]
+    },{
+      "text": "直播管理",
+      "icon": "&#xe628;",
+      "href": "",
+      "subset": [
+        {
+          "text": "全部直播",
+          "icon": "&#xe68e;",
+          "href": "live/index.html"
+        }
+      ]
+    },{
+      "text": "其他",
+      "icon": "&#xe638;",
+      "href": "demo/children.html"
+    }
+  ]
+}
